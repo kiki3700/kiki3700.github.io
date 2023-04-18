@@ -17,11 +17,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+그
 title: journey to the west
 email: 5575492q@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-안녕하세요. 이성현이라고 합니다.
+이성현의 개인 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: kiki3700
